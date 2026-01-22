@@ -1,0 +1,4 @@
+ - Type: 5, Data: pool-tcp-ap-south-1-ad84943-571391129070ce1e.elb.ap-south-1.amazonaws.com.
+ - Type: 1, Data: 3.108.251.216
+ - Type: 1, Data: 3.111.105.85
+ - Type: 1, Data: 142.250.182.78

@@ -1,0 +1,3 @@
+(psycopg2.OperationalError) connection to server at "3.108.251.216", port 6543 failed: FATAL:  Tenant or user not found
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
