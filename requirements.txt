@@ -4,9 +4,5 @@ gunicorn
 sqlalchemy
 psycopg2-binary
 python-dotenv
-bcrypt
-python-multipart
-pillow
-requests
 pydantic
-pydantic-settings
+requests
