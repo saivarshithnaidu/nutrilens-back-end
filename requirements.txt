@@ -13,3 +13,4 @@ email-validator
 python-jose[cryptography]
 passlib[bcrypt]
 argon2-cffi
+python-multipart
